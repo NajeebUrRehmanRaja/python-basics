@@ -13,6 +13,8 @@ Learn foundational Python through small, focused examples. Each folder contains 
 python-basics/
   ├── Conditionals and Booleans - If, Else, and Elif Statements/
   │   └── Conditionals and Booleans - If, Else, and Elif Statements.py
+  ├── Functions/
+  │   └── Functions.py
   ├── Loops and Iterations - For&While Loops/
   │   └── Loops and Iterations - For&While Loops.py
   ├── VariablesInPython/
@@ -45,6 +47,10 @@ python-basics/
 ### Conditionals and Booleans
 - If/elif/else statements and boolean logic:
   - `python "Conditionals and Booleans - If, Else, and Elif Statements\Conditionals and Booleans - If, Else, and Elif Statements.py"`
+
+### Functions
+- Defining functions, parameters, return values, and scope:
+  - `python Functions\Functions.py`
 
 ### Loops and Iterations
 - For loops, while loops, and iteration control:
