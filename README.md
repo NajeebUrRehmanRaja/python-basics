@@ -11,6 +11,8 @@ Learn foundational Python through small, focused examples. Each folder contains 
 ## Repository Structure
 ```
 python-basics/
+  ├── Conditionals and Booleans - If, Else, and Elif Statements/
+  │   └── Conditionals and Booleans - If, Else, and Elif Statements.py
   ├── VariablesInPython/
   │   ├── variables-python.py
   │   ├── add-variables.py
@@ -37,6 +39,10 @@ python-basics/
 ### Variable Types
 - Core Python types (int, float, str, bool, etc.):
   - `python PythonVariableTypes\PythonVariableTypes.py`
+
+### Conditionals and Booleans
+- If/elif/else statements and boolean logic:
+  - `python "Conditionals and Booleans - If, Else, and Elif Statements\Conditionals and Booleans - If, Else, and Elif Statements.py"`
 
 ### Lists, Tuples, and Sets
 - Working with common collections:
