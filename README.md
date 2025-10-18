@@ -15,16 +15,19 @@ python-basics/
   │   └── Conditionals and Booleans - If, Else, and Elif Statements.py
   ├── Functions/
   │   └── Functions.py
+  ├── Import Modules and Exploring The Standard Library/
+  │   ├── intro.py
+  │   └── my_module.py
   ├── Loops and Iterations - For&While Loops/
   │   └── Loops and Iterations - For&While Loops.py
+  ├── PythonVariableTypes/
+  │   └── PythonVariableTypes.py
   ├── VariablesInPython/
   │   ├── variables-python.py
   │   ├── add-variables.py
   │   ├── array-length.py
   │   ├── cases-string.py
   │   └── dir-function.py
-  ├── PythonVariableTypes/
-  │   └── PythonVariableTypes.py
   ├── python---Lists-Tuples-and-Sets/
   │   └── python---Lists-Tuples-and-Sets.py
   └── python-Dictionaries - Working with Key-Value Pairs/
@@ -51,6 +54,11 @@ python-basics/
 ### Functions
 - Defining functions, parameters, return values, and scope:
   - `python Functions\Functions.py`
+
+### Import Modules and Standard Library
+- Working with modules and exploring Python's standard library:
+  - `python "Import Modules and Exploring The Standard Library\intro.py"`
+  - Custom module example: `python "Import Modules and Exploring The Standard Library\my_module.py"`
 
 ### Loops and Iterations
 - For loops, while loops, and iteration control:
